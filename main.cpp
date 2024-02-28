@@ -8,5 +8,8 @@ int main() {
 
     cout << "Commit D" << endl;
     
+    cout << "Commit C" << endl;
+
+    cout << "Commit E" << endl;
     return 0;
 }
